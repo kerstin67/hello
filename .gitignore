@@ -7,3 +7,5 @@
 !buildfile
 
 !.gitignore
+
+!README.md
